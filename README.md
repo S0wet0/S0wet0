@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Developer | Content Creator | Tech Explorer<br>Passionate about Python, Unity, Game Development, Cybersecurity, and Animation. Building apps, games, and immersive digital experiences.<br><br>Badges:<br><br>Python Enthusiast<br><br>Cybersecurity Explorer<br><br>Game Developer<br><br>2D Animation Artist<br><br>Lens Creator<br>
+Full-Stack Developer | Content Creator | Tech Explorer<br>Passionate about Python, Game Development, Cybersecurity, and Animation. Building apps, games, and immersive digital experiences.
 
 
 ## 🌐 Socials:
